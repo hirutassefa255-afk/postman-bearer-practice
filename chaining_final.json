@@ -4,5 +4,20 @@
         "status": "active",
         "gender": "female"
     },
+
    
+    {
+        "name": "tom",
+        "status": "active",
+        "gender": "male"
+    },
+
+
+    {
+        "name": "Merry",
+        "status": "inactive",
+        "gender": "female"
+    }
+
+
 ]
